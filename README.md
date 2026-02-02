@@ -1,2 +1,6 @@
 # RIZIV-INAMI-reimbursement-indications-of-ICIs-in-adult-cancer
 A Prescriber-Oriented Tool for Reimbursement Indications of Immune Checkpoint Inhibitors in Adult Solid Tumors in Belgium 
+Immune checkpoint inhibitors (ICIs) have transformed the treatment landscape for solid tumors. In Belgium, eleven ICIs currently hold reimbursement approval for adult patients. However, reimbursement conditions are published by RIZIV/INAMI per pharmaceutical specialty, not by cancer type, making it challenging for prescribers to quickly identify the most appropriate option for a given diagnosis. A diagnosis-driven approach could streamline treatment selection and improve clinical decision-making.
+We developped a prescriber-customized tool that consolidates reimbursement indications for ICIs by cancer type, disease stage, treatment intent, and line of therapy, thereby facilitating rapid and accurate treatment planning.
+This pragmatic and time-saving tool addresses a critical gap in clinical practice by enabling prescribers to navigate reimbursement conditions efficiently. 
+We therefore recommend its digital integration and monthly update on the Belgian Society of Medical Oncology (BSMO) website to ensure accessibility and sustainability.
